@@ -30,6 +30,8 @@ Em resumo, as imagens vetoriais oferecem uma abordagem poderosa e flexível para
 
 À medida que a densidade de cores aumenta, mais detalhes e nuances de cor podem ser representados, resultando em imagens mais realistas e de alta qualidade. No entanto, isso também pode aumentar significativamente o tamanho do arquivo da imagem, já que mais bits são necessários para armazenar as informações de cor. É importante mencionar que a densidade de cores está diretamente relacionada à qualidade da imagem, mas também é influenciada pelo espaço de cores utilizado (como RGB, CMYK, entre outros) e pelo método de compressão de imagem aplicado (se houver). A escolha da densidade de cores adequada depende das necessidades específicas do projeto, considerando fatores como espaço de armazenamento disponível, requisitos de qualidade da imagem e compatibilidade com dispositivos de exibição. </p>
 
+![WhatsApp Image 2024-04-18 at 20 34 59 (3)](https://github.com/Bruno616/Pesquisa-Conceito-de-Imagem/assets/105759351/f37aae67-1a56-4cfc-8d91-e3796181dc85)
+
   <h2>Modelo de Cores</h2>
   <p> Os modelos de cores são sistemas organizados que descrevem como as cores são representadas e interpretadas em dispositivos eletrônicos e sistemas de imagem. Eles são fundamentais para a reprodução precisa e consistente de cores em diferentes contextos, como fotografia, design gráfico, vídeo, impressão e visualização digital.
 
