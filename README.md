@@ -63,3 +63,5 @@ Existem vários modelos de cores, cada um com sua própria abordagem para descre
    - Ele separa a informação de cor em três componentes: L* (luminosidade), a* (componente verde-vermelho) e b* (componente azul-amarelo), permitindo uma representação precisa de uma ampla gama de cores.
 
 Esses são apenas alguns exemplos dos muitos modelos de cores disponíveis. Cada modelo tem suas próprias características e aplicações específicas, e a escolha do modelo de cores adequado depende das necessidades do projeto, do meio de exibição e dos requisitos de reprodução de cor. </p>
+
+![WhatsApp Image 2024-04-18 at 20 34 59](https://github.com/Bruno616/Pesquisa-Conceito-de-Imagem/assets/105759351/00edb8b1-9cdd-4020-a1c4-4cf2487bd8f9)
