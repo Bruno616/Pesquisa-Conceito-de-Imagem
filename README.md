@@ -45,16 +45,18 @@ Existem vários modelos de cores, cada um com sua própria abordagem para descre
    - É amplamente utilizado em dispositivos de exibição, como monitores de computador, TVs e câmeras digitais.
    - As cores são representadas pela combinação de intensidades de luz vermelha, verde e azul, variando de 0 (ausência de cor) a 255 (máxima intensidade), em cada canal.
 
-![WhatsApp Image 2024-04-18 at 20 34 59 (4)](https://github.com/Bruno616/Pesquisa-Conceito-de-Imagem/assets/105759351/0b695204-237f-478b-8e07-cd19e1bf3a1d)
-
 <h3> 2. CMYK (Cyan, Magenta, Yellow, Black): </h3>
    - O modelo CMYK é usado principalmente na impressão colorida, onde as cores são criadas pela sobreposição de tintas translúcidas.
    - Ele é baseado na subtração de cores, onde cada cor primária (ciano, magenta e amarelo) é subtraída de uma fonte de luz branca para criar outras cores.
    - O canal "K" representa o componente preto, que é adicionado para melhorar a qualidade e a profundidade das sombras na impressão.
 
+![WhatsApp Image 2024-04-18 at 20 34 59 (4)](https://github.com/Bruno616/Pesquisa-Conceito-de-Imagem/assets/105759351/0b695204-237f-478b-8e07-cd19e1bf3a1d)
+
 <h3> 3. HSB/HSV (Hue, Saturation, Brightness/Value): </h3>
    - Este modelo descreve as cores em termos de matiz (a tonalidade da cor), saturação (a intensidade ou pureza da cor) e brilho (a quantidade de luz refletida pela cor).
    - É frequentemente utilizado em softwares de design gráfico e edição de imagem para manipulação de cores de forma intuitiva.
+
+![WhatsApp Image 2024-04-18 at 20 34 59 (1)](https://github.com/Bruno616/Pesquisa-Conceito-de-Imagem/assets/105759351/b2dc886e-cbe5-4a80-8cc2-7cdcb6a0b15c)
 
 <h3> 4. LAB (CIE Lab): </h3>
    - O modelo LAB é projetado para ser perceptualmente uniforme, o que significa que as diferenças na distância entre as cores correspondem às diferenças percebidas pelo olho humano.
