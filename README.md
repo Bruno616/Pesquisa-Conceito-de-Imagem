@@ -45,6 +45,8 @@ Existem vários modelos de cores, cada um com sua própria abordagem para descre
    - É amplamente utilizado em dispositivos de exibição, como monitores de computador, TVs e câmeras digitais.
    - As cores são representadas pela combinação de intensidades de luz vermelha, verde e azul, variando de 0 (ausência de cor) a 255 (máxima intensidade), em cada canal.
 
+![WhatsApp Image 2024-04-18 at 20 34 59 (4)](https://github.com/Bruno616/Pesquisa-Conceito-de-Imagem/assets/105759351/0b695204-237f-478b-8e07-cd19e1bf3a1d)
+
 <h3> 2. CMYK (Cyan, Magenta, Yellow, Black): </h3>
    - O modelo CMYK é usado principalmente na impressão colorida, onde as cores são criadas pela sobreposição de tintas translúcidas.
    - Ele é baseado na subtração de cores, onde cada cor primária (ciano, magenta e amarelo) é subtraída de uma fonte de luz branca para criar outras cores.
