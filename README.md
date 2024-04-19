@@ -26,6 +26,9 @@ Em resumo, as imagens raster são compostas por uma grade de pixels e têm uma r
 Além da escalabilidade, as imagens vetoriais oferecem vantagens em termos de edição e manipulação. Como os elementos são definidos matematicamente, eles podem ser facilmente modificados, redimensionados, movidos, agrupados e estilizados sem comprometer a qualidade da imagem. Isso permite um fluxo de trabalho flexível e iterativo, onde os designers podem experimentar livremente e ajustar elementos até alcançarem o resultado desejado. Os formatos de arquivo mais comuns para imagens vetoriais incluem SVG (Scalable Vector Graphics), AI (Adobe Illustrator) e EPS (Encapsulated PostScript). Esses formatos são amplamente suportados por softwares de design gráfico e são interoperáveis, facilitando o compartilhamento e a colaboração entre diferentes plataformas e aplicativos.
 
 Em resumo, as imagens vetoriais oferecem uma abordagem poderosa e flexível para a criação de elementos visuais, com escalabilidade infinita, capacidade de edição não destrutiva e ampla compatibilidade com softwares e dispositivos. Elas são essenciais para projetos que exigem precisão, versatilidade e qualidade em diferentes escalas e contextos de exibição. </p>
+
+![WhatsApp Image 2024-04-18 at 20 35 00](https://github.com/Bruno616/Pesquisa-Conceito-de-Imagem/assets/105759351/44bd245e-a539-4102-ba9d-7d664fed13b6)
+
 <hr>
   <h1>Cores</h1>
     <h2>Densidade de Cores (bits)</h2>
