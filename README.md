@@ -68,3 +68,28 @@ Existem vários modelos de cores, cada um com sua própria abordagem para descre
 Esses são apenas alguns exemplos dos muitos modelos de cores disponíveis. Cada modelo tem suas próprias características e aplicações específicas, e a escolha do modelo de cores adequado depende das necessidades do projeto, do meio de exibição e dos requisitos de reprodução de cor. </p>
 
 ![WhatsApp Image 2024-04-18 at 20 34 59](https://github.com/Bruno616/Pesquisa-Conceito-de-Imagem/assets/105759351/00edb8b1-9cdd-4020-a1c4-4cf2487bd8f9)
+
+<h2>Fontes</h2>
+<p>
+https://olhardigital.com.br/2023/10/17/reviews/o-que-e-um-pixel-e-para-que-serve/
+
+https://www.adobe.com/br/creativecloud/file-types/image/comparison/raster-vs-vector.html#:~:text=O%20que%20%C3%A9%20um%20arquivo%20rasterizado%3F,da%20imagem%20e%20vice%2Dversa.
+
+https://tecnoblog.net/responde/o-que-e-um-pixel/
+
+https://dealercv.com.br/glossario/o-que-e-densidade-de-cores/#:~:text=A%20densidade%20de%20cores%20%C3%A9,intensidade%20e%20variedade%20de%20tonalidades.
+
+https://adenilsongiovanini.com.br/blog/imagens-raster-o-que-sao-e-tipos-existentes/
+
+https://product.corel.com/help/CorelDRAW/540240626/Main/BR/Doc/wwhelp/wwhimpl/common/html/wwhelp.htm?context=CorelDRAW_Help&file=CorelDRAW-Understanding-color-models.html
+
+https://www.avmakers.com.br/blog/o-que-e-profundidade-de-bits#:~:text=A%20quantidade%20de%20bits%20e,16.777.216%20possibilidades%20de%20cor.
+
+https://helpx.adobe.com/br/photoshop/using/bit-depth.html
+
+https://affinity.help/designer2/pt-BR.lproj/index.html?page=pages/Clr/ClrModels.html&title=Modelos%20de%20cor
+
+https://pt.m.wikipedia.org/wiki/Modelo_de_cor
+
+https://tecnoblog.net/responde/o-que-sao-os-padroes-de-cores-rgb-e-cmyk/
+</p>
